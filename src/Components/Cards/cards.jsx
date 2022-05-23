@@ -38,7 +38,6 @@ const SingleCard = (props) => {
                 y,scale,
             }
         }
-        key={props.key}
         >
 
         </motion.div>

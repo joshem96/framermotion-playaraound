@@ -16,6 +16,13 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <>
     <Spacer/>
+    <h1 style={{color: 'limegreen',textAlign: 'center'}}>
+      Lets 
+      <span style={{color: 'violet'}} id="move">&nbsp;Move&nbsp;</span> 
+      Some 
+      <span style={{color: 'deepskyblue'}}> Blocks! </span>
+    </h1>
+    <Spacer/>
     <CardContainer />
     <Spacer/>
     <CardContainer />

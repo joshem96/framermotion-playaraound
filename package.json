@@ -1,7 +1,7 @@
 {
   "name": "install",
   "version": "0.1.0",
-  "homepage": "https://joshem96.github.io/framermotion-playaraound/",
+  "homepage": "https://joshem96.github.io/framermotion-playaround-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
