@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/framermotion-playaround/static/css/main.9b5a6e36.css",
+    "main.js": "/framermotion-playaround/static/js/main.8a1b4f06.js",
+    "static/media/logo.svg": "/framermotion-playaround/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/framermotion-playaround/index.html",
+    "main.9b5a6e36.css.map": "/framermotion-playaround/static/css/main.9b5a6e36.css.map",
+    "main.8a1b4f06.js.map": "/framermotion-playaround/static/js/main.8a1b4f06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b5a6e36.css",
+    "static/js/main.8a1b4f06.js"
+  ]
+}
