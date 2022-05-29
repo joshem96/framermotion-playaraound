@@ -1,7 +1,7 @@
 {
   "name": "install",
   "version": "0.1.0",
-  "homepage": "https://joshem96.github.io/framermotion-playaround-app/",
+  "homepage": "https://joshem96.github.io/framermotion-playaround/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
