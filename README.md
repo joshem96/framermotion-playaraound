@@ -1,6 +1,7 @@
 # Framer Motion Play around
 
 A playaround app where I'm getting familiar with framer motion.
+This will always be changing as I learn more.
 So what can you do?
 
 ## What can you do?
